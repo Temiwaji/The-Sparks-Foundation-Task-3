@@ -5,4 +5,5 @@ Exploratory Data Analysis (EDA) is a method for better understanding your data a
 It aids in the cleanup of a dataset.
 It improves your understanding of the variables and their relationships. EDA assists in gathering insights and making better sense of data, as well as removing irregularities and unnecessary values from data, aids in preparing dataset for analysis, enables a machine learning model to predict dataset more accurately, also aids in the selection of a better machine learning model. This project extracts, cleans and visualizes the dataset from a sample superstore.
 The link to the dataset used in this task was obtained from https://bit.ly/3i4rbWl
+
 IDE used is Jupyter notebook.
